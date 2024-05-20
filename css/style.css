@@ -235,6 +235,10 @@ footer .container {
   font-style: italic;
 }
 
+.hs-form-field {
+  font-family: "sofia-pro", sans-serif !important;
+}
+
 .hs-form-field label {
-  color: white;
+  color: white !important;
 }
