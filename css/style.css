@@ -234,3 +234,7 @@ footer .container {
   font-weight: 700;
   font-style: italic;
 }
+
+.hs-form-field label {
+  color: white;
+}
